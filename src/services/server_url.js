@@ -1,3 +1,3 @@
-const base_url='https://dashboard.render.com/web/srv-cpi78vmct0pc73fnk6u0/deploys/dep-cpi78vmct0pc73fnk70g'
+const base_url='https://projects-server-r30h.onrender.com'
 
 export default base_url
